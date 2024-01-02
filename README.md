@@ -1,7 +1,7 @@
 ![computer](https://github.com/zhangbri/zhangbri/assets/115335041/123a9a90-8338-456f-9a8a-3d5f5af1a311)
 <h1 align="center">Hi 👋, I'm Brian Zhang</h1>
 <h3 align="center">A passionate software engineer and web developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952qyg87zoomlenasnxtly2ouwxig5wu949mrz598pp&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="600" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952qyg87zoomlenasnxtly2ouwxig5wu949mrz598pp&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on [3d_portfolio](https://zhangbri.com/)
 
@@ -13,7 +13,16 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1piNc3hCCzL-qAY-3Vf_poDPQ1ThM0pKK4CxUinFnhnA/edit?usp=sharing](https://docs.google.com/document/d/1piNc3hCCzL-qAY-3Vf_poDPQ1ThM0pKK4CxUinFnhnA/edit?usp=sharing)
 
-- ⚡ Fun fact **When I'm not busy coding, you can find me diving into the world of anime📺 and YouTube videos🎥, hitting the court for some energetic pickleball🏓 and tennis🎾 matches, or unwinding with my favorite video games🎮. These hobbies keep me balanced and inspired in my coding journey!✨**
+<h3>⚡ Fun Fact</h3>
+<p>
+  Aside from coding, I'm:
+  <ul>
+    <li><strong>📺 Exploring anime and YouTube</li>
+    <li>🏓🎾 Playing pickleball and tennis</li>
+    <li>🎮 Enjoying video games</strong></li>
+  </ul>
+  These hobbies bring balance and inspiration to my tech journey! ✨
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
