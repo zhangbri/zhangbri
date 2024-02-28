@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **C++ | React**
 
-- 👨‍💻 All of my projects are available at [https://zhangbri.com/](https://zhangbri.com/)
+- 👨‍💻 All of my projects are available at [zhangbri.com](https://zhangbri.com/)
 
 - 📫 How to reach me **zhangbri@umich.edu**
 
-- 📄 Know about my experiences https://docs.google.com/document/d/1hbbZx_GAMLbZRsErt8DB5GiRBuA2U8lUl4x6pccvZNQ/edit?usp=sharing
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1hbbZx_GAMLbZRsErt8DB5GiRBuA2U8lUl4x6pccvZNQ/edit?usp=sharing)
 
 <h3>⚡ Fun Fact</h3>
 <p>
