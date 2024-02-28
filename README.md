@@ -18,7 +18,7 @@
   Aside from coding, I'm:
   <ul>
     <li>📺 Exploring anime and YouTube</li>
-    <li>🏓🎾 Playing tennis and pickleball</li>
+    <li>🎾 Playing tennis and pickleball 🏓</li>
     <li>🎮 Enjoying video games</strong></li>
   </ul>
   These hobbies bring balance and inspiration to my tech journey! ✨
