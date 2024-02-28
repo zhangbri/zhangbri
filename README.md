@@ -3,15 +3,15 @@
 <h3 align="center">A passionate software engineer and web developer</h3>
 <img align="right" alt="Coding" width="450" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952qyg87zoomlenasnxtly2ouwxig5wu949mrz598pp&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently working on [3d_portfolio](https://zhangbri.com/)
+- 🔭 I’m currently working on **[3d_portfolio](https://zhangbri.com/)**
 
-- 🌱 I’m currently learning **C++ | React**
+- 🌱 I’m currently learning **C++ | React | Kotlin**
 
-- 👨‍💻 All of my projects are available at [zhangbri.com](https://zhangbri.com/)
+- 👨‍💻 All of my projects are available at **[zhangbri.com](https://zhangbri.com/)**
 
 - 📫 How to reach me **zhangbri@umich.edu**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1hbbZx_GAMLbZRsErt8DB5GiRBuA2U8lUl4x6pccvZNQ/edit?usp=sharing)
+- 📄 Know about my experiences **[Resume](https://docs.google.com/document/d/1hbbZx_GAMLbZRsErt8DB5GiRBuA2U8lUl4x6pccvZNQ/edit?usp=sharing)**
 
 <h3>⚡ Fun Fact</h3>
 <p>
