@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **zhangbri@umich.edu**
 
-- 📄 Know about my experiences **[Resume](https://docs.google.com/document/d/1hbbZx_GAMLbZRsErt8DB5GiRBuA2U8lUl4x6pccvZNQ/edit?usp=sharing)**
+- 📄 Know about my experiences **[Resume](https://docs.google.com/document/d/1IIuHZ0_yQRvNFWrA_HOiqYDhU5_H9EEKS3wF4Qbdlvg/edit?usp=sharing)**
 
 <h3>⚡ Fun Fact</h3>
 <p>
