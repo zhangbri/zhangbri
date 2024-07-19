@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **[3d_portfolio](https://zhangbri.com/)**
 
-- 🌱 I’m currently learning **C++ | React | Kotlin**
+- 🌱 I’m currently learning **C++ | Java | Python**
 
 - 👨‍💻 All of my projects are available at **[zhangbri.com](https://zhangbri.com/)**
 
