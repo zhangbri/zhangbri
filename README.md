@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences **[Resume](https://docs.google.com/document/d/1IIuHZ0_yQRvNFWrA_HOiqYDhU5_H9EEKS3wF4Qbdlvg/edit?usp=sharing)**
 
-# ⚡ Fun Fact:
+### ⚡ Fun Fact:
 <p>
   Aside from coding, I'm:
   <ul>
@@ -36,16 +36,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zhangbri&show_icons=true&locale=en&layout=compact" alt="zhangbri" width="375" height="200"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhangbri&" alt="zhangbri" width="450" height="200"/>
 </p>
 
-## 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zhangbri&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## ✍️ Random Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zhangbri&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-## Connect with me
+### Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/zhangbri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zhangbri" height="30" width="40" /></a>
 <a href="https://instagram.com/_brianzhang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_brianzhang" height="30" width="40" /></a>
