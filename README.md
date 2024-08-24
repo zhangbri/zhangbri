@@ -50,7 +50,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=zhangbri&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 <p align="left">
-  <strong>Connect with me:</strong>
+  <h3>Connect with me:</h3>
   <a href="https://linkedin.com/in/zhangbri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zhangbri" height="20" width="20" /></a>
   <a href="https://instagram.com/_brianzhang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_brianzhang" height="20" width="20" /></a>
 </p>
