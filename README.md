@@ -53,10 +53,7 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </div>
-<div align="center">
-  <strong>Connect with me:</strong>
-    <a href="https://linkedin.com/in/zhangbri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zhangbri" height="20" width="30" /></a>
-    <a href="https://instagram.com/_brianzhang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_brianzhang" height="20" width="30" /></a>
-</div>
+
+  <h3 align="center">Connect with me: <a href="https://linkedin.com/in/zhangbri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zhangbri" height="20" width="30" /></a> <a href="https://instagram.com/_brianzhang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_brianzhang" height="20" width="30" /></a> </h3>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
