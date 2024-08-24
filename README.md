@@ -44,17 +44,15 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=zhangbri&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
 </div>
 
-### ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</div>
-
 ### 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zhangbri&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="Github Trophies"/>
 </div>
 
-<br> 
+### ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</div>
 
 <div align="center">
   <strong>Connect with me:</strong>
