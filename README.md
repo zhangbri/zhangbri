@@ -54,9 +54,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=zhangbri&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="Github Trophies"/>
 </div>
 
-<strong>Connect with me:</strong>
-  <a href="https://linkedin.com/in/zhangbri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zhangbri" height="20" width="30" /></a>
-  <a href="https://instagram.com/_brianzhang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_brianzhang" height="20" width="30" /></a>
-</p>
+<br> <!-- Adding a line break to create space between sections -->
+
+<div align="center" style="margin-top: 20px;"> <!-- Adjust the margin-top to add more space -->
+  <strong>Connect with me:</strong>
+    <a href="https://linkedin.com/in/zhangbri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zhangbri" height="20" width="30" /></a>
+    <a href="https://instagram.com/_brianzhang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_brianzhang" height="20" width="30" /></a>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
