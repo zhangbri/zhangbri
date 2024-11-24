@@ -40,7 +40,7 @@ Connect with me: <a href="https://linkedin.com/in/zhangbri" target="blank"><img 
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhangbri&theme=tokyonight&hide_border=false" alt="Streak Stats" width="500" height="200"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangbri&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" width="345" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangbri&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" width="340" height="200"/>
 </div>
 
 ### 🔝 Top Contributed Repo
