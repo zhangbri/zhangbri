@@ -51,9 +51,3 @@ Connect with me: <a href="https://linkedin.com/in/zhangbri" target="blank"><img 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zhangbri&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="Github Trophies"/>
 </div>
-
-### ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
