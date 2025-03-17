@@ -2,13 +2,13 @@
 <h1 align="center">👋 Hi, I'm Brian Zhang 🤖</h1>
 <h3 align="center">Software Engineer / Full Stack Developer</h3>
 <h3 align="center">
-Connect with me: <a href="https://linkedin.com/in/zhangbri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zhangbri" height="20" width="30" /></a> <a href="https://instagram.com/_brianzhang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_brianzhang" height="20" width="30" /></a> 
+Connect with me: <a href="https://linkedin.com/in/zhangbri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zhangbri" height="20" width="30" /></a>
 </h3>
 <img align="right" alt="Coding" width="450" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952qyg87zoomlenasnxtly2ouwxig5wu949mrz598pp&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on **[Park Swift](https://github.com/void-tech-um/park-swift)**
 
-- 🌱 I’m currently learning **C++ | Python | Java**
+- 🌱 I’m currently learning **React | Python | JavaScript**
 
 - 👨‍💻 All of my projects are available at **[zhangbri.com](https://zhangbri.com/)**
 
@@ -39,7 +39,7 @@ Connect with me: <a href="https://linkedin.com/in/zhangbri" target="blank"><img 
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhangbri&theme=tokyonight&hide_border=false" alt="Streak Stats" width="489" height="200"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=zhangbri&theme=tokyonight&hide_border=false" alt="Streak Stats" width="489" height="200"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangbri&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" width="351" height="200"/>
 </div>
 
