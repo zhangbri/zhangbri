@@ -40,15 +40,9 @@ Connect with me: <a href="https://linkedin.com/in/zhangbri" target="blank"><img 
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=zhangbri&theme=tokyonight&hide_border=false" alt="Streak Stats" width="489" height="200"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangbri&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" width="351" height="200"/>
 </div>
 
 ### 🔝 Top Contributed Repo
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=zhangbri&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
-</div>
-
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zhangbri&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="Github Trophies"/>
 </div>
